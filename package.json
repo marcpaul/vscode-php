@@ -1,0 +1,21 @@
+{
+    "name": "vscode-php",
+    "displayName": "vscode-php",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "marcpaul",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/marcpaul/vscode-php.git"
+    },
+	"icon": "icon.png",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+		"bmewburn.vscode-intelephense-client"
+    ]
+}
